@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 85.07 133.86">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        fill: #231f20;
+        font-family: BalooChettan2-Regular, 'Baloo Chettan 2';
+        font-size: 14.99px;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <path class="cls-1" d="M84.57,42.53c0,23.21-42.03,90.38-42.03,90.38,0,0-42.03-67.17-42.03-90.38S19.32.5,42.53.5s42.03,18.82,42.03,42.03Z"/>
+    <text class="cls-3" transform="translate(17.06 46.17) scale(.89 1)"><tspan class="cls-4" x="0" y="0">L</tspan><tspan x="7.36" y="0">oc</tspan><tspan class="cls-2" x="22.82" y="0">K</tspan><tspan x="30.98" y="0">ers™</tspan></text>
+  </g>
+</svg>

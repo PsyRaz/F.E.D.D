@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../F.E.D.D"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "F.D.D website"
+	}
+}
